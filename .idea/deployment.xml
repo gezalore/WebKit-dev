@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="bbox-11-armhf (12be52c6-fe89-493a-93d0-a452bee70319)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/igalia/glore/work/WebKit-remote" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/clion-remote-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/clion-local-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/WebKitBuild" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
