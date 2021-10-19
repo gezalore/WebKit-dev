@@ -8,9 +8,9 @@
             <mapping deploy="/home/igalia/glore/work/WebKit-remote" local="$PROJECT_DIR$" web="/" />
           </mappings>
           <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/WebKitBuild" />
             <excludedPath local="true" path="$PROJECT_DIR$/clion-remote-debug" />
             <excludedPath local="true" path="$PROJECT_DIR$/clion-local-debug" />
-            <excludedPath local="true" path="$PROJECT_DIR$/WebKitBuild" />
           </excludedPaths>
         </serverdata>
       </paths>
